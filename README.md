@@ -2,7 +2,7 @@
 ## Module 7-8
 ### This project was done in collaboration with Patrick Bacza, Jay Laxami, and Stephen Mims
 
-The field we chose to study is mental health in the tech/non-tech field. Mental health is something that effects everyone's lives and it would be impactful to find insights to helps us better understand it. The data we would be working with is a survey about attitudes towards mental health in tech companies provided by Kaggle.com.
+The field we chose to study is mental health in the tech industry. Mental health is something that effects everyone's lives and it would be impactful to find insights to helps us better understand it. The data we would be working with is a survey about attitudes towards mental health in tech companies provided by Kaggle.com.
 
 We will clean the data and will perform all the analysis including statistical analysis for data sets. [data_cleaning.ipynb]
 
