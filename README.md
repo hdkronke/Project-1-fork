@@ -4,7 +4,7 @@
 
 The field we chose to study is mental health in the tech industry. Mental health is something that effects everyone's lives and it would be impactful to find insights to helps us better understand it. The data we would be working with is a survey about attitudes towards mental health in tech companies provided by Kaggle.com.
 
-We will clean the data and will perform all the analysis including statistical analysis for data sets. [data_cleaning.ipynb]
+We will clean the data and will perform all the analysis including statistical analysis for data sets. 
 
 Data Source: 
 (https://www.kaggle.com/datasets/anth7310/mental-health-in-the-tech-industry)
